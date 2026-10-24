@@ -199,4 +199,4 @@ MIT — do whatever you want, but keep the Visual Crossing attribution in the fo
 
 ---
 
-**Weather data by [Visual Crossing](https://www.visualcrossing.com/weather-api).**
+**Weather data by [Visual Crossing](https://www.visualcrossing.com/weather-api).**# skycast-weather-webapp
